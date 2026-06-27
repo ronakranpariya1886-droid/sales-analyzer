@@ -33,11 +33,7 @@ Sales-Analyzer/
 
 🚀 Getting Started
 
-1. Clone the repository
-
-git clone https://github.com/yashr5120/Sales-Analyzer.git
-
-2. Open the project
+Open the project
 
 Navigate to the project folder and open "index.html" in your preferred web browser.
 
