@@ -1,103 +1,35 @@
-📊 Sales Analyzer
+# Sales Analyzer
 
-A simple and interactive web application that analyzes daily sales data entered by the user. It provides instant insights such as total sales, highest and lowest sales, and the number of days where sales exceeded a specified threshold. The project is built using HTML, CSS, and Vanilla JavaScript, making it beginner-friendly and easy to understand.
+Sales Analyzer is a small browser app for entering daily sales values and getting a quick summary. It calculates totals, identifies the highest and lowest days, and counts how many days crossed 1000.
 
----
+## Features
 
-✨ Features
+- Total sales
+- Highest sales day
+- Lowest sales day
+- Days above 1000
+- Input validation for comma-separated numbers
 
-- 📈 Calculates total sales
-- 🏆 Displays the day with the highest sales
-- 📉 Displays the day with the lowest sales
-- 🔢 Counts days with sales greater than 1000
-- ✅ Validates user input and handles invalid entries
-- 🎨 Modern, responsive glassmorphism-inspired UI
+## Files
 
----
+- [index.html](index.html)
+- [style.css](style.css)
+- [app.js](app.js)
 
-🛠️ Tech Stack
+## Run It
+
+Open [index.html](index.html) in a browser.
+
+## Usage
+
+Enter values like `1200, 850, 1500, 700, 1800`, then click Submit.
+
+## Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- Vanilla JavaScript
 
----
+## Repository
 
-📂 Project Structure
-
-Sales-Analyzer/
-│── index.html
-└── README.md
-
----
-
-🚀 Getting Started
-
-Open the project
-
-Navigate to the project folder and open "index.html" in your preferred web browser.
-
----
-
-💻 Usage
-
-1. Enter daily sales values separated by commas.
-   
-   Example:
-   
-   1200, 850, 1500, 700, 1800
-
-2. Click Submit.
-
-3. View the generated analytics instantly.
-
----
-
-📊 Output
-
-The application displays:
-
-- ✅ Total Sales
-- ✅ Highest Sales (with Day Number)
-- ✅ Lowest Sales (with Day Number)
-- ✅ Number of Days with Sales Above 1000
-
----
-
-🎯 Learning Objectives
-
-This project demonstrates:
-
-- JavaScript Arrays
-- Loops ("for")
-- Conditional Statements
-- DOM Manipulation
-- User Input Validation
-- Basic Data Analysis Logic
-- Responsive UI Design
-
----
-
-🔮 Future Enhancements
-
-- 📊 Interactive charts and graphs
-- 📅 Date-based sales tracking
-- 📥 CSV file upload support
-- 📤 Export reports as PDF or Excel
-- 🌙 Dark/Light mode toggle
-
----
-
-🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
-
----
-
-📄 License
-
-This project is licensed under the MIT License.
-
----
-
-⭐ If you found this project helpful, don't forget to star the repository!
+GitHub: https://github.com/ronakranpariya1886-droid/sales-analyzer
